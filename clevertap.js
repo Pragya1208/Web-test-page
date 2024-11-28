@@ -317,9 +317,14 @@
 //   var TARGET_PROTOCOL = 'https:';
 //   var DEFAULT_REGION = 'eu1';
                       
-  var TARGET_DOMAIN = 'wzrkt.com';
-  var TARGET_PROTOCOL = 'https:';
-  var DEFAULT_REGION = 'sk1';
+//  var TARGET_DOMAIN = 'wzrkt.com';
+//  var TARGET_PROTOCOL = 'https:';
+//  var DEFAULT_REGION = 'sk1';
+
+    var TARGET_DOMAIN = 'clevertap-prod-az.com';
+    var TARGET_PROTOCOL = 'https:';
+    var DEFAULT_REGION = 'wus2';
+                      
 
   var _accountId = _classPrivateFieldLooseKey("accountId");
 
